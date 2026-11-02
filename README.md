@@ -2,7 +2,7 @@
 
 I'm a Masters of Applied Science student at The University of Ottawa. My research focuses on modelling detonation waves in white dwarf enriched helium shells and carbon-oxygen core material to investigate the ignition of thermonuclear runaway in Type Ia Supernovae explosion mechanisms, namely double detonations.
 
-The detonations are simulated using MG, an open source finite volume compressible flow solver. A modified version of MG which just contains the supernovae modelling module can be found in the mgt repository below. Templates that go alongside MG to do ZND, and 2D unsteady calculations can also be found below. MG also has the functionality to compute the core and atmosphere profiles of White Dwarfs which can be found in the 
+The detonations are simulated using MG, an open source finite volume compressible flow solver. A modified version of MG which just contains the supernovae modelling module can be found in the mgt repository below. Templates that go alongside MG to do ZND, and 2D unsteady calculations can also be found below. MG also has the functionality to compute the core and atmosphere profiles of White Dwarfs which can be found in the wd_core_test2 repository.
 
 ---
 #### Research Interests
