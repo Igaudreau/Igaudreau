@@ -7,6 +7,7 @@ The detonations are simulated using MG, an open source finite volume compressibl
 ---
 #### Research Interests
 Nuclear Astrophysics, Hydrodynamics & MHD, Fusion Physics, Computational Physics
+
 ---
 Repository Overview
 <!--
