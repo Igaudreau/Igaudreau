@@ -1,4 +1,4 @@
-# ⚛️ Hello, I'm Isaac.
+## ⚛️ Hello, I'm Isaac.
 
 I'm a Masters of Applied Science student at The University of Ottawa. My research focuses on modelling detonation waves in white dwarf enriched helium shells and carbon-oxygen core material to investigate the ignition of thermonuclear runaway in Type Ia Supernovae double detonation explosion mechanisms.
 
