@@ -1,6 +1,6 @@
 # ⚛️ Hello, I'm Isaac.
 
-I’m a Master of Applied Science student at The University of Ottawa, focusing on hydrodynamic simulations of Type Ia supernovae. Currently my research focuses on modelling detonation waves in white dwarf helium shells and carbon-oxygen core material to investigate their role in the ignition of thermonuclear runaway in double detonation explosion mechanisms. We do this using our in-house finite volume reactive compressible flow solver, MG.
+I’m a Master of Applied Science student at The University of Ottawa, focusing on hydrodynamic simulations of Type Ia supernovae. Currently my research involves modelling detonation waves in white dwarf helium shells and carbon-oxygen core material to investigate their role in the ignition of thermonuclear runaway in double detonation explosion mechanisms. We do this using our in-house finite volume reactive compressible flow solver, MG.
 
 Prior to my research at U Ottawa I worked on the modelling of Ultra-Diffuse galaxies to probe their dark matter content and test the reliability of 3D BAROLO in its ability to recover the kinematics in this regime of galaxy. This was done as part of my undergraduate thesis in the completion of my BSc (Hons.) Astrophysics.
 
