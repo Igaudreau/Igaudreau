@@ -4,7 +4,7 @@ I’m a Master of Applied Science student at The University of Ottawa, focusing 
 
 Prior to my research at U Ottawa I worked on the modelling of Ultra-Diffuse galaxies to probe their dark matter content and test the reliability of 3D BAROLO in its ability to recover the kinematics in this regime of galaxy. This was done as part of my undergraduate thesis in the completion of my BSc (Hons.) Astrophysics.
 
-Below are some templates that go alongside MG to do ZND, and 2D unsteady calculations. MG also has the functionality to compute the core and atmosphere profiles of White Dwarfs which can be found in the wd_core_test2 repository.
+A modified version of MG which just contains the supernovae modelling module can be found in the mgt repository below. There are also some templates that go alongside MG to do ZND, and 2D unsteady calculations. MG also has the functionality to compute the core and atmosphere profiles of White Dwarfs which can be found in the wd_core_test2 repository.
 
 ---
 #### Research Interests
